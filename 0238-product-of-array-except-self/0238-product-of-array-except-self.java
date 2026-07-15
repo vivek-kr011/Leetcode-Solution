@@ -1,27 +1,29 @@
 class Solution {
    public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
-      
-       // Create answer array and initialize with 1
-       int[] ans = new int[n];
-       Arrays.fill(ans, 1);
 
+    int[] ans = new int[n];
+    int[] prefix = new int[n];
+    int[] suffix = new int[n];
 
-       // Calculate prefix product and store in ans
-       for (int i = 1; i < n; i++) {
-           ans[i] = ans[i - 1] * nums[i - 1];
-       }
+    // All elements are initialize with 1
+    Arrays.fill(ans, 1);
+    Arrays.fill(prefix, 1);
+    Arrays.fill(suffix, 1);
 
+    // prefix
+    for(int i = 1; i < n; i++) {
+        prefix[i] = prefix[i-1] * nums[i-1];
+    }
+    // suffix
+    for(int i = n-2; i >= 0; i--) {
+        suffix[i] = suffix[i+1] * nums[i+1];
+    }
 
-       // Calculate suffix product and update ans
-       int suffix = nums[n - 1];
-       for (int i = n - 2; i >= 0; i--) {
-           ans[i] = ans[i] * suffix; // prefix * suffix
-           suffix *= nums[i];
-       }
+    for(int i = 0; i<n; i++) {
+        ans[i] = prefix[i] * suffix[i];
+    }
+    return ans;
 
-
-       return ans;
    }
 }
-
