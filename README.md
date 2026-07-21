@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vivekkr620/DSA-Practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/vivekkr620/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/vivekkr620/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/vivekkr620/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Depth-First Search
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vivekkr620/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
