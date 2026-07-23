@@ -1,49 +1,53 @@
 class Solution {
 public:
-   int largestRectangleArea(vector<int>& heights) {
-       int n = heights.size();
-       stack<int> indexStack;  // Stack to store indices
-       int maxArea = INT_MIN;
+    int largestRectangleArea(vector<int>& heights) {
 
-       // Iterate through the bars
-       for (int i = 0; i < n; i++) {
-           // Pop elements until we find a bar shorter than the current one
-           while (!indexStack.empty() && heights[i] < heights[indexStack.top()]) {
-               int topIndex = indexStack.top();
-               indexStack.pop();
-               int height = heights[topIndex];
-              
-               // Calculate width for the popped element
-               int width = indexStack.empty() ? i : (i - indexStack.top() - 1);
-               int area = height * width;
-              
-               // Update maximum area
-               maxArea = max(maxArea, area);
-           }
-          
-           // Push current index to the stack
-           indexStack.push(i);
-       }
+        int n = heights.size();
+        vector<int> left(n, 0);  // left smaller nearest store
+        vector<int> right(n, 0); // right smaller nearest store
 
+        stack<int> s;
 
-       // Handle remaining bars in the stack
-       while (!indexStack.empty()) {
-           int topIndex = indexStack.top();
-           indexStack.pop();
-           int height = heights[topIndex];
-          
-           // Calculate width for the remaining elements
-           int width = indexStack.empty() ? n : (n - indexStack.top() - 1);
-           int area = height * width;
-          
-           // Update maximum area
-           maxArea = max(maxArea, area);
-       }
+        // CALCULATE RIGHT SAMLLER VALUE
+        for(int i = n-1; i >= 0; i--) {
 
+            while( s.size() > 0 && heights[s.top()] >= heights[i] ) {  // heights[i] is curr_value
+                s.pop();
+            }
 
-       return maxArea;
-   }
+            right[i] = s.empty() ? n : s.top();  // n is default value
+            s.push(i);
+        }
+
+        // Element Remove from Stack
+        while(!s.empty()) {
+            s.pop();
+        }
+
+        // CALCULATE LEFT SMALLER VAVLUE 
+        for(int i = 0; i < n; i++) {
+
+            while( s.size() > 0 && heights[s.top()] >= heights[i] ) {  // heights[i] is curr_value
+                s.pop();
+            }
+
+            left[i] = s.empty() ? -1 : s.top();
+            s.push(i);
+        }
+
+        // Calculate Answer
+        int ans = 0;
+
+        for(int i = 0; i < n; i++) {
+
+            int width = right[i] - left[i]-1;
+
+            int currArea = heights[i] * width;
+
+            ans = max(ans, currArea);
+        }
+
+        return ans;
+        
+    }
 };
-
-
-
