@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkr620/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkr620/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
