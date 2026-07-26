@@ -1,43 +1,56 @@
 class Solution {
 public:
-    bool isFreqSame(int freq1[], int freq2[]) {  // 0(1);
-        for(int i = 0; i < 26; i++) {
-            if(freq1[i] != freq2[i]) {  // window mismatch
+
+    bool isFreqSame(int freq1[], int freq2[]) {
+        for (int i = 0; i < 26; i++) {
+            if (freq1[i] != freq2[i]) {
                 return false;
             }
         }
-
         return true;
     }
 
-
     bool checkInclusion(string s1, string s2) {
+
+        int n = s1.length();
+        int m = s2.length();
+
+        if (n > m) {
+            return false;
+        }
+
+        // Frequency of s1
         int freq[26] = {0};
 
-        for(int i = 0; i < s1.length(); i++) {
-            // int idx = s1[i] - 'a'; // a=0, b=1
-            // freq[idx]++;
+        // Frequency of current window in s2
+        int windFreq[26] = {0};
 
+        // Build frequency arrays
+        for (int i = 0; i < n; i++) {
             freq[s1[i] - 'a']++;
-        } 
+            windFreq[s2[i] - 'a']++;
+        }
 
-        int windSize = s1.length();
+        // Compare first window
+        if (isFreqSame(freq, windFreq)) {
+            return true;
+        }
 
-        for(int i = 0; i < s2.length(); i++) {  // worst case TC is O(n^2)
-            int windIdx = 0, idx = i; // idx denote original string index
-            int windFreq[26] = {0};
+        // Slide the window
+        for (int i = n; i < m; i++) {
 
-            while(windIdx < windSize && idx < s2.length()) {
-                windFreq[s2[idx] - 'a']++;
-                windIdx++, idx++;
-            }
+            // Remove leftmost character
+            windFreq[s2[i - n] - 'a']--;
 
-            if(isFreqSame(freq, windFreq)) {  // found
+            // Add new rightmost character
+            windFreq[s2[i] - 'a']++;
+
+            // Compare frequencies
+            if (isFreqSame(freq, windFreq)) {
                 return true;
             }
         }
 
         return false;
-        
     }
 };
