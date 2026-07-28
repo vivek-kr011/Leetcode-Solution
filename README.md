@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vivekkr620/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vivekkr620/DSA-Practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekkr620/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/vivekkr620/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vivekkr620/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
