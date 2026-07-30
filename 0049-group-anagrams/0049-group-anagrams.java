@@ -1,26 +1,26 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         
-        // APPROACH 1 USING SORTING + HASHING TC = O(N*Klog(K))
-        Map<String, List<String>> map = new HashMap<>(); // key = string, value = List
+        Map<String, List> map = new HashMap<>();
 
-        for(int i = 0; i < strs.length; i++) {
+        for(String s : strs) {
+            int[] count = new int[26];
+            for(char c : s.toCharArray()) {
+                count[ c - 'a']++;
+            }
 
-            // convert string into char array
-            String str = strs[i];
-            char[] chars = strs[i].toCharArray();
+            StringBuilder sb = new StringBuilder();
+            for(int i : count) {
+                sb.append("#");
+                sb.append(i);
+            }
 
-            // Sort the character array
-            Arrays.sort(chars);
-
-            String sortedStr = new String(chars);
-
-            if(!map.containsKey(sortedStr)) {
-                map.put(sortedStr, new ArrayList<>());
-            } 
-            map.get(sortedStr).add(str);
+            String key = sb.toString();
+            if(!map.containsKey(key)) {
+                map.put(key, new ArrayList<String>());
+            }
+            map.get(key).add(s);
         }
-
-        return new ArrayList<>(map.values());
+        return new ArrayList(map.values());
     }
 }
