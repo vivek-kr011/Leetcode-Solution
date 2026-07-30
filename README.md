@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vivekkr620/DSA-Practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/vivekkr620/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekkr620/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr620/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekkr620/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vivekkr620/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
