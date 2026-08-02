@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkr620/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vivekkr620/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vivekkr620/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/vivekkr620/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vivekkr620/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
