@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkr620/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vivekkr620/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vivekkr620/DSA-Practice/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
