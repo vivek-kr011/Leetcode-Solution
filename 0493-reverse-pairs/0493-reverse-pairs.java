@@ -1,18 +1,19 @@
 class Solution {
-    public void merge(int[] arr, int low, int mid, int high) {
-        int n1 = mid - low + 1;
-        int n2 = high - mid;
+    public void merge(int[] arr, int start, int mid, int end) {
+
+        int n1 = mid - start + 1;
+        int n2 = end - mid;
         int[] left = new int[n1];
         int[] right = new int[n2];
 
         for (int i = 0; i < n1; i++) {
-            left[i] = arr[low + i];
+            left[i] = arr[start + i];
         }
         for (int i = 0; i < n2; i++) {
             right[i] = arr[mid + 1 + i];
         }
 
-        int k = low, i = 0, j = 0;
+        int k = start, i = 0, j = 0;
         while (i < n1 && j < n2) {
             if (left[i] <= right[j]) {
                 arr[k++] = left[i++];
@@ -29,11 +30,11 @@ class Solution {
         }
     }
 
-    public int countPairs(int[] arr, int low, int mid, int high) {
+    public int countPairs(int[] arr, int start, int mid, int end) {
         int right = mid + 1;
         int count = 0;
-        for (int i = low; i <= mid; i++) {
-            while (right <= high && (long) arr[i] > 2L * arr[right]) {
+        for (int i = start; i <= mid; i++) {
+            while (right <= end && (long) arr[i] > 2L * arr[right]) {
                 right++;
             }
             count += (right - (mid + 1));
@@ -41,21 +42,22 @@ class Solution {
         return count;
     }
 
-    public int mergeSort(int[] nums, int low, int high) {
+    public int mergeSort(int[] nums, int start, int end) {
         int count = 0;
-        if (low < high) {
-            int mid = (low + high) / 2;
-            count += mergeSort(nums, low, mid);
-            count += mergeSort(nums, mid + 1, high);
-            count += countPairs(nums, low, mid, high);
-            merge(nums, low, mid, high);
+        if (start < end) {
+            int mid = (start + end) / 2;
+
+            count += mergeSort(nums, start, mid);  // left half
+            count += mergeSort(nums, mid + 1, end); // right half
+            count += countPairs(nums, start, mid, end); 
+            merge(nums, start, mid, end); // merging asorted values
         }
         return count;
     }
 
     public int reversePairs(int[] nums) {
-        int low = 0;
-        int high = nums.length - 1;
-        return mergeSort(nums, low, high);
+        int start = 0;
+        int end = nums.length - 1;
+        return mergeSort(nums, start, end);
     }
 }
