@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/vivekkr620/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/vivekkr620/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -233,4 +234,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vivekkr620/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vivekkr620/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vivekkr620/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vivekkr620/DSA-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
