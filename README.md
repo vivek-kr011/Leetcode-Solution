@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vivekkr620/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekkr620/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr620/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
