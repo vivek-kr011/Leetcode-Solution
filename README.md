@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivekkr620/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
