@@ -10,8 +10,8 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        // If list is empty or only one node or k = 0, return head
-        if (head == null || head.next == null || k == 0)
+        
+if (head == null || head.next == null || k == 0)
             return head;
 
         // Initialize length and tail
@@ -46,3 +46,4 @@ class Solution {
         return newHead;
     }
 }
+// TC = O(k x n) SC = O(1)
