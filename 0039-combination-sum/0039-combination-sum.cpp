@@ -1,32 +1,50 @@
 class Solution {
 public:
-   void backtrack(vector<int>& nums, int target, int start, vector<int>& curr, vector<vector<int>>& result) {
-       if (target == 0) {
-           result.push_back(curr);
-           return;
-       }
+
+    /* Create a set of vector of integer to track a unique combinations */
+    set<vector<int>> s;
 
 
-       for (int i = start; i < nums.size(); ++i) {
-           if (nums[i] > target) break;
+    void getAllCombination(vector<int>& arr, int idx,  int tar, vector<vector<int>> &ans, vector<int> &combination) {
 
+        /* Base Case */
+        if(idx == arr.size() || tar < 0) {
+            return;
+        }
 
-           curr.push_back(nums[i]);
-           backtrack(nums, target - nums[i], i, curr, result);
-           curr.pop_back();
-       }
-   }
+        if(tar == 0) {
 
+            // tracking all of the unique combination
+            if(s.find(combination) == s.end()) {
+                ans.push_back(combination);
+                s.insert(combination);
+            }
+                
+            return;
+        }
 
-   vector<vector<int>> combinationSum(vector<int>& nums, int target) {
-       sort(nums.begin(), nums.end()); // Enables pruning
-       vector<vector<int>> result;
-       vector<int> curr;
-       backtrack(nums, target, 0, curr, result);
-       return result;
-   }
+        combination.push_back(arr[idx]); // include
+
+        /* Single Choice */
+        getAllCombination(arr, idx+1, tar-arr[idx], ans, combination);
+
+        /* Multiple choice */
+        getAllCombination(arr, idx, tar-arr[idx], ans, combination);     
+
+        combination.pop_back();
+
+        /* Exclusion */   
+        getAllCombination(arr, idx+1, tar, ans, combination);
+
+    }
+
+    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+
+        vector<vector<int>> ans;
+        vector<int> combination;
+
+        getAllCombination(arr, 0, target, ans, combination);
+
+        return ans;
+    }
 };
-
-
-
-
