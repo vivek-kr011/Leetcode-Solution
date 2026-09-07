@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vivekkr620/DSA-Practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/vivekkr620/DSA-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/vivekkr620/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/vivekkr620/DSA-Practice/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 ## Matrix
 |  |
