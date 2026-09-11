@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vivekkr620/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/vivekkr620/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/vivekkr620/DSA-Practice/tree/master/0443-string-compression) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vivekkr620/DSA-Practice/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vivekkr620/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/vivekkr620/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/vivekkr620/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
