@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vivekkr620/DSA-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/vivekkr620/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vivekkr620/DSA-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vivekkr620/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vivekkr620/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/vivekkr620/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vivekkr620/DSA-Practice/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/vivekkr620/DSA-Practice/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vivekkr620/DSA-Practice/tree/master/0131-palindrome-partitioning) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vivekkr620/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vivekkr620/DSA-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
