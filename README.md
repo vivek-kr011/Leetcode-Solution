@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr620/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vivekkr620/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vivekkr620/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/vivekkr620/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vivekkr620/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vivekkr620/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Trie
 |  |
