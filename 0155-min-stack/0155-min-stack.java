@@ -1,16 +1,7 @@
 class MinStack {
 
-    static class Pair {
-        int first;
-        int second;
-
-        Pair(int first, int second) {
-            this.first = first;
-            this.second = second;
-        }
-    }
-
-    Stack<Pair> s;
+    Stack<Long> s;
+    long minValue;
 
     public MinStack() {
         s = new Stack<>();
@@ -19,23 +10,43 @@ class MinStack {
     public void push(int value) {
 
         if (s.isEmpty()) {
-            s.push(new Pair(value, value));
+            
+            s.push((long) value);
+            minValue = value;
+
         } else {
-            int minValue = Math.min(value, s.peek().second);
-            s.push(new Pair(value, minValue));
+
+            if(value < minValue) {
+
+                s.push(2L * value - minValue);
+                minValue = value;
+
+            } else {
+                s.push((long) value);
+            }
         }
     }
 
     public void pop() {
+        
+        if(s.peek() < minValue) {
+            minValue = 2L * minValue - s.peek();
+        }
+
         s.pop();
     }
 
     public int top() {
-        return s.peek().first;
+        
+        if(s.peek() < minValue) {
+            return (int) minValue;
+        } else {
+            return s.peek().intValue();
+        }
     }
 
     public int getMin() {
-        return s.peek().second;
+        return (int) minValue;
     }
 }
 
