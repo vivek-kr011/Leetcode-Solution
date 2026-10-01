@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekkr620/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkr620/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/vivekkr620/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vivekkr620/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
@@ -381,10 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Data Stream
 |  |
