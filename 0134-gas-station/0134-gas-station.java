@@ -3,22 +3,14 @@ class Solution {
 
         int totalGas = 0, totalCost = 0;
 
-        for(int i = 0; i < gas.length; i++) {
-            totalGas += gas[i];
-        }
-
-        for(int i = 0; i < cost.length; i++) {
-            totalCost += cost[i];
-        }
-
-        if(totalGas < totalCost) {
-            return -1;
-        }
-
         // Unique solution always exist
         int start = 0, currGas = 0;
 
         for(int i = 0; i < gas.length; i++) {
+
+            totalGas += gas[i];     // calculate totalGas
+            totalCost += cost[i];   // calculate totalCost
+
             currGas += (gas[i] - cost[i]);
 
             if(currGas < 0) {
@@ -27,7 +19,10 @@ class Solution {
             }
         }
 
-        return start;
+        // return start;
+        
+        // we use ternary Operator 
+        return totalGas < totalCost ? -1 : start;   
         
     }
 }
