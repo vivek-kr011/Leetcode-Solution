@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/vivekkr620/DSA-Practice/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Data Stream
 |  |
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
