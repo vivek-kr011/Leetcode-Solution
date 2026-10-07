@@ -16,23 +16,33 @@
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
 
-        if(p == null && q == null) {
-            return true; // means identical
-        } else if(p == null || q == null || p.val != q.val) {
-            return false;
+        // if(p == null && q == null) {
+        //     return true; // means identical
+        // } else if(p == null || q == null || p.val != q.val) {
+        //     return false;
+        // }
+
+        // // left_sutree same hai ya nahi
+        // if(!isSameTree(p.left, q.left)) {
+        //     return false;
+        // }
+
+        // // right_sutree same hai ya nahi
+        // if(!isSameTree(p.right, q.right)) {
+        //     return false;
+        // }
+
+        // return true;
+
+        /* Another Way */
+        if(p == null || q == null) {
+            return p == q;
         }
 
-        // left_sutree same hai ya nahi
-        if(!isSameTree(p.left, q.left)) {
-            return false;
-        }
+        boolean isLeftSame = isSameTree(p.left, q.left);
+        boolean isRightSame = isSameTree(p.right, q.right);
 
-        // right_sutree same hai ya nahi
-        if(!isSameTree(p.right, q.right)) {
-            return false;
-        }
-
-        return true;
+        return isLeftSame && isRightSame && p.val == q.val;
 
     }
 }
