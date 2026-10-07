@@ -22,12 +22,12 @@ class Solution {
             return false;
         }
 
-        // left_sutree mein non-identical
+        // left_sutree same hai ya nahi
         if(!isSameTree(p.left, q.left)) {
             return false;
         }
 
-        // right_sutree mein non-identical
+        // right_sutree same hai ya nahi
         if(!isSameTree(p.right, q.right)) {
             return false;
         }
