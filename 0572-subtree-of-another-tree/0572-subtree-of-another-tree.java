@@ -36,7 +36,7 @@ class Solution {
 
         // return true;
 
-        /* Another Way  */
+        /* Another Way */
         if(root == null || subRoot == null) {
             return root == subRoot;
         }
@@ -50,8 +50,13 @@ class Solution {
 
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         
-        if(root == null) {
-            return false;
+        // if(root == null) {
+        //     return false;
+        // }
+
+        /* Another Way to write Base Case  */
+        if(root == null || subRoot == null) {
+            return root == subRoot;
         }
 
         // har bar root par jayenge aur  root.data se subRoot.data ke sath compare kar lenge
