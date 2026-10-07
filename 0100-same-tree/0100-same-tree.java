@@ -14,20 +14,21 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode root, TreeNode subRoot) {
-        if(root == null && subRoot == null) {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+
+        if(p == null && q == null) {
             return true; // means identical
-        } else if(root == null || subRoot == null || root.val != subRoot.val) {
+        } else if(p == null || q == null || p.val != q.val) {
             return false;
         }
 
         // left_sutree mein non-identical
-        if(!isSameTree(root.left, subRoot.left)) {
+        if(!isSameTree(p.left, q.left)) {
             return false;
         }
 
         // right_sutree mein non-identical
-        if(!isSameTree(root.right, subRoot.right)) {
+        if(!isSameTree(p.right, q.right)) {
             return false;
         }
 
