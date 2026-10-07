@@ -18,23 +18,33 @@ class Solution {
     // check 2 tree same / identiacl hai ya nahi ( exact same ditto)
     public static boolean isIdentical(TreeNode root, TreeNode subRoot) {
         
-        if(root == null && subRoot == null) {
-            return true; // means identical
-        } else if(root == null || subRoot == null || root.val != subRoot.val) {
-            return false;
+        // if(root == null && subRoot == null) {
+        //     return true; // means identical
+        // } else if(root == null || subRoot == null || root.val != subRoot.val) {
+        //     return false;
+        // }
+
+        // // left_sutree mein non-identical
+        // if(!isIdentical(root.left, subRoot.left)) {
+        //     return false;
+        // }
+
+        // // right_sutree mein non-identical
+        // if(!isIdentical(root.right, subRoot.right)) {
+        //     return false;
+        // }
+
+        // return true;
+
+        /* Another Way  */
+        if(root == null || subRoot == null) {
+            return root == subRoot;
         }
 
-        // left_sutree mein non-identical
-        if(!isIdentical(root.left, subRoot.left)) {
-            return false;
-        }
+        boolean isLeftSame = isIdentical(root.left, subRoot.left);
+        boolean isRightSame = isIdentical(root.right, subRoot.right);
 
-        // right_sutree mein non-identical
-        if(!isIdentical(root.right, subRoot.right)) {
-            return false;
-        }
-
-        return true;
+        return isLeftSame && isRightSame && root.val == subRoot.val;
 
     }
 
