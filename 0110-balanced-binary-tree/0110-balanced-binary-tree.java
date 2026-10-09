@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+/* key idea: Use post-order DFS to compute height and check balance simultaneously. TC=O(n) */
 class Solution {
     public boolean isBalanced(TreeNode root) {
 
