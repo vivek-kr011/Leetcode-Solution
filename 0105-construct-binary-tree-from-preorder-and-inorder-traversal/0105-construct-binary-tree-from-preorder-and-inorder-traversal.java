@@ -15,8 +15,10 @@
  */
 class Solution {
 
+    // Ise global rakha hai taaki left aur right dono subtrees ko sahi index mile.
     private int preIdx = 0; 
 
+    // Yeh simple function inorder array me kisi value ki sahi position (index) dhundhta hai
     private int search(int[] inorder, int left, int right, int val) {
         for(int i = left; i <= right; i++) {
             if(inorder[i] == val) {
@@ -34,8 +36,10 @@ class Solution {
         }
 
         /* Root construct */
+        // Uses the global preIdx
         TreeNode root = new TreeNode(preorder[preIdx]);
 
+        // inorder me root ke left wale elements left tree me jayenge, aur right wale right tree me
         int inIdx = search(inorder, left, right, preorder[preIdx]);
         preIdx++;
         
