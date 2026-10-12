@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Function
 |  |
 | ------- |
