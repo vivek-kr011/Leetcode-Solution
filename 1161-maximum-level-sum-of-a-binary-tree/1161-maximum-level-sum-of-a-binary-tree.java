@@ -22,22 +22,24 @@ class Solution {
         q.add(root); // we can use offer aur add 
 
         int max_Sum = Integer.MIN_VALUE; // current maximum level sum
+
         int level = 1;  // Current level number ( root )
-        int ans = 1;
+
+        int ans = 1;  // // Maximum sum wale level ka answer
 
         while (!q.isEmpty()) {
 
             // Current level par kitne nodes hain
             int size = q.size();
 
-            int curr_Sum = 0;
+            int curr_Sum = 0;  // sum = 0 , in each level
 
             /* Run the for loop, to precess the curr_Levle nodes */
             for (int i = 0; i < size; i++) {
 
                 TreeNode node = q.remove();
 
-                curr_Sum += node.val;
+                curr_Sum += node.val;  // curr Node ki value ko level sum me add kiya
                 
                 // check the left child
                 if (node.left != null) {
@@ -50,7 +52,7 @@ class Solution {
                 }
             }
 
-            // update max_Sum
+            // current level maximum hai ya nahi
             if (curr_Sum > max_Sum) {
                 max_Sum = curr_Sum;
                 ans = level;
@@ -60,6 +62,6 @@ class Solution {
             level++;
         }
 
-        return ans;
+        return ans;  // maximum level ke sum return karega
     }
 }
