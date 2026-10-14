@@ -14,7 +14,7 @@
  * }
  */
 
- /* follow Reverse Pre-Order ( left, right, root) and track lastVisited Node using nextRight. TC O(n). {before doing backtrack nextRight become root}*/
+ /* follow Reverse Pre-Order ( Right → Left → Root ) and track lastVisited Node using nextRight. TC O(n). {before doing backtrack nextRight become root}*/
 class Solution {
 
     TreeNode nextRight = null; // last visitied node
