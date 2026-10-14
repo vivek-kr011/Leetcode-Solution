@@ -13,29 +13,22 @@
  *     }
  * }
  */
+
+ /* follow Reverse Pre-Order ( left, right, root) and track lastVisited Node using nextRight. TC O(n). {before doing backtrack nextRight become root}*/
 class Solution {
+
+    TreeNode nextRight = null; // last visitied node
     public void flatten(TreeNode root) {
-        
-        // TC O(n sq)
+
         if(root == null) {
             return;
         }
 
-        TreeNode rightSubtree = root.right;
-
-        flatten(root.left);
         flatten(root.right);
+        flatten(root.left);
 
-        if(root.left != null) {
-            root.right = root.left;
-            root.left = null;
-            TreeNode curr = root.right;
-
-            while(curr.right != null) {
-                curr = curr.right;
-            }
-
-            curr.right = rightSubtree;
-        } 
+        root.left = null;
+        root.right = nextRight;
+        nextRight = root;
     }
 }
