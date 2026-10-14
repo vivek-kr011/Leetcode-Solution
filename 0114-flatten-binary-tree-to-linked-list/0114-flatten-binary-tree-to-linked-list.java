@@ -16,6 +16,7 @@
 class Solution {
     public void flatten(TreeNode root) {
         
+        // TC O(n sq)
         if(root == null) {
             return;
         }
