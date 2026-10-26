@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekkr620/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vivekkr620/DSA-Practice/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vivekkr620/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vivekkr620/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekkr620/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/vivekkr620/DSA-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekkr620/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vivekkr620/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
@@ -276,11 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
