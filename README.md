@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vivekkr620/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vivekkr620/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/vivekkr620/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vivekkr620/DSA-Practice/tree/master/0493-reverse-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vivekkr620/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vivekkr620/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr620/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vivekkr620/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/vivekkr620/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/vivekkr620/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vivekkr620/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vivekkr620/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
