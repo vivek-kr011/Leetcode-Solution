@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekkr620/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vivekkr620/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/vivekkr620/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/vivekkr620/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vivekkr620/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vivekkr620/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/vivekkr620/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/vivekkr620/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/vivekkr620/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekkr620/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
