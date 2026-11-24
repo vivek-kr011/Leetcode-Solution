@@ -24,6 +24,7 @@ class TreeAncestor {
             for (int node = 0; node < n; node++) {
 
                 // Find the ancestor after the previous jump
+                // mid mein current node ka previous jump result store hota hai.
                 int mid = up[node][j - 1];
 
                 if (mid == -1) {
