@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vivekkr620/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vivekkr620/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekkr620/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vivekkr620/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vivekkr620/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vivekkr620/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vivekkr620/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vivekkr620/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/vivekkr620/DSA-Practice/tree/master/0901-online-stock-span) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Algorithm X
 |  |
 | ------- |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/vivekkr620/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2596-check-knight-tour-configuration](https://github.com/vivekkr620/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Bucket Sort
 |  |
@@ -473,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -521,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/vivekkr620/DSA-Practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
