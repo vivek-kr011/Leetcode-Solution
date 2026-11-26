@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vivekkr620/DSA-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0110-balanced-binary-tree) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vivekkr620/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vivekkr620/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkr620/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
