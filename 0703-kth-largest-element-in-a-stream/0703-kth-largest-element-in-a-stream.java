@@ -12,9 +12,6 @@ class KthLargest {
     }
 
     public int add(int val) {
-        // for (int i = 0; i < arr.size(); i++) {
-        //     arr.add(val);
-        // }
 
         arr.add(val);
 
