@@ -1,23 +1,40 @@
 class KthLargest {
 
     int k;
-    ArrayList<Integer> arr = new ArrayList<>();
+    PriorityQueue<Integer> pq;
 
     public KthLargest(int k, int[] nums) {
         this.k = k;
 
+        // Create an empty Min Heap
+        pq = new PriorityQueue<>();
+
+        // Add all initial elements using the add()
         for (int num : nums) {
-            arr.add(num);
+            add(num);
         }
     }
 
     public int add(int val) {
 
-        arr.add(val);
+        // If heap contains fewer than k elements,
+        // add the new value because we need k largest elements
 
-        Collections.sort(arr);
+        // OR if the new value is greater than the smallest element currently present in the heap, it can be among k largest/
+        if (pq.size() < k || val > pq.peek()) {
 
-        return arr.get(arr.size() - k);
+            // Insert the new value into the Min Heap
+            pq.offer(val);
+
+            // If heap contains more than k elements,
+            // remove the smallest element to maintain only k largest elements
+            if (pq.size() > k) {
+                pq.poll();
+            }
+        }
+
+        // The smallest element among the k largest elements is the kth largest element
+        return pq.peek();
     }
 }
 
